@@ -3,7 +3,7 @@
 ## requirements
  
 #### .env with
-```toml
+```properties
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587 # port
 EMAIL_SECURE=0 # 1 ~ 0
